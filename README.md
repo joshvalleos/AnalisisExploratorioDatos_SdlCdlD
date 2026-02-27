@@ -1,1 +1,2 @@
 # AnalisisExploratorioDatos_SdlCdlD
+Aplicado a un dataset asignado, utilizando Python y librerías como pandas, NumPy, matplotlib, seaborn y scikit-learn. Realicé procesos de limpieza y auditoría de calidad de datos. Elaboré análisis estadísticos, descriptivos e inferenciales para identificar patrones y relaciones relevantes. Documenté el proceso técnico y generé reportes ejecutivos con conclusiones orientadas a la toma de decisiones.
